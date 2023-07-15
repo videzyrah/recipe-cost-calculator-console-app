@@ -1,0 +1,15 @@
+C:\Users\Greg\Documents\10GeekJames\PocoConsoleApp\bin\Debug\net7.0\PocoConsoleApp.exe
+C:\Users\Greg\Documents\10GeekJames\PocoConsoleApp\bin\Debug\net7.0\PocoConsoleApp.deps.json
+C:\Users\Greg\Documents\10GeekJames\PocoConsoleApp\bin\Debug\net7.0\PocoConsoleApp.runtimeconfig.json
+C:\Users\Greg\Documents\10GeekJames\PocoConsoleApp\bin\Debug\net7.0\PocoConsoleApp.dll
+C:\Users\Greg\Documents\10GeekJames\PocoConsoleApp\bin\Debug\net7.0\PocoConsoleApp.pdb
+C:\Users\Greg\Documents\10GeekJames\PocoConsoleApp\obj\Debug\net7.0\PocoConsoleApp.csproj.AssemblyReference.cache
+C:\Users\Greg\Documents\10GeekJames\PocoConsoleApp\obj\Debug\net7.0\PocoConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Greg\Documents\10GeekJames\PocoConsoleApp\obj\Debug\net7.0\PocoConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Greg\Documents\10GeekJames\PocoConsoleApp\obj\Debug\net7.0\PocoConsoleApp.AssemblyInfo.cs
+C:\Users\Greg\Documents\10GeekJames\PocoConsoleApp\obj\Debug\net7.0\PocoConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Greg\Documents\10GeekJames\PocoConsoleApp\obj\Debug\net7.0\PocoConsoleApp.dll
+C:\Users\Greg\Documents\10GeekJames\PocoConsoleApp\obj\Debug\net7.0\refint\PocoConsoleApp.dll
+C:\Users\Greg\Documents\10GeekJames\PocoConsoleApp\obj\Debug\net7.0\PocoConsoleApp.pdb
+C:\Users\Greg\Documents\10GeekJames\PocoConsoleApp\obj\Debug\net7.0\PocoConsoleApp.genruntimeconfig.cache
+C:\Users\Greg\Documents\10GeekJames\PocoConsoleApp\obj\Debug\net7.0\ref\PocoConsoleApp.dll
